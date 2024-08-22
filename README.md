@@ -1,2 +1,2 @@
 # ReactProjects
-Basic Projects implemented with React
+Basic Web App Projects implemented with React
